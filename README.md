@@ -20,3 +20,6 @@
 
 ## Diagram Squence Pembuatan laporan
 ![sq 03](https://github.com/adityaputrawijaya/Squence_Diagram/assets/115687055/99de9cef-d1e9-4e1e-af42-5fd61320aa6d)
+
+## Diagram Class
+![clss 01](https://github.com/adityaputrawijaya/Squence_Diagram/assets/115687055/03da067a-8a3b-47c9-b3e9-e9a1ad4faf55)
